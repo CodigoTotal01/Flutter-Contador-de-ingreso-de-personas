@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/CodigoTotal01/Flutter-Contador-de-ingreso-de-personas/assets/85316618/28f2a929-d9f6-4a38-9656-ed4383e604c3)
